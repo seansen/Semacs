@@ -1,0 +1,5 @@
+# Ignore the .cache directory
+.local/
+
+# Ignore the straight directory
+straight/
