@@ -18,6 +18,5 @@
 ** Config
 * Fehler
 ** PHP
-** JS
 ** React
 ** Anzeige Sec. in Modeleiste
